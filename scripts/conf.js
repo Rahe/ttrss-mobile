@@ -6,6 +6,6 @@
 define({
 
   /* URL to access your Tiny Tiny RSS installation */
-  apiPath: "http://rss.nicolas-juen.fr/"
+  apiPath: "/"
 
 });
